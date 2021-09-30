@@ -1,0 +1,20 @@
+{
+  "name": "masterdataupload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "csv": "^5.5.3",
+    "csv-parse": "^4.16.0",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "jest": "^27.2.1",
+    "lodash": "^4.17.21"
+  }
+}
